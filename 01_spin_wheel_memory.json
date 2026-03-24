@@ -1,0 +1,32 @@
+{
+  "tasks": [
+    {
+      "task": "Revise last lecture notes",
+      "difficulty": "medium"
+    },
+    {
+      "task": "Solve 2 easy problems",
+      "difficulty": "easy"
+    },
+    {
+      "task": "Rewrite one concept in your own words",
+      "difficulty": "medium"
+    },
+    {
+      "task": "Make 5 flashcards",
+      "difficulty": "easy"
+    },
+    {
+      "task": "Refactor one function name + variables",
+      "difficulty": "hard"
+    }
+  ],
+  "picks": {
+    "Solve 2 easy problems": 2,
+    "Rewrite one concept in your own words": 2,
+    "Make 5 flashcards": 1,
+    "Refactor one function name + variables": 2,
+    "Revise last lecture notes": 1
+  },
+  "last_choice": "Refactor one function name + variables"
+}
